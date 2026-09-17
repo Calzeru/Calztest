@@ -1,3 +1,31 @@
-theme: jekyll-theme-minimal
-title: Calz's homepage
-description:
+title: Calztest
+2
+description: Test
+3
+url: "https://calzeru.github.io/Calztest/"
+4
+baseurl: ""
+5
+ 
+6
+markdown: kramdown
+7
+ 
+8
+plugins:
+9
+- jekyll-feed
+10
+- jekyll-seo-tag
+11
+ 
+12
+theme: minima
+13
+ 
+14
+author:
+15
+name: Calztest
+16
+email:
